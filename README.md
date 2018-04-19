@@ -1,2 +1,2 @@
-# G2BoardGameClient
- G2 Study Project - Board Game Client written in Julia
+# AIBoardGameClient
+Study Project: AI Board Game Client written in Julia
